@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>558599482242-5frdpb0jsr587mf2fma2bp0ckjv4so4p.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.558599482242-5frdpb0jsr587mf2fma2bp0ckjv4so4p</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCeTJ75oC6YowaVbbcf1U4BsC2ZZ20BItY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>558599482242</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>jp.Rue.FindNearByYou</string>
+	<key>PROJECT_ID</key>
+	<string>findnearbyyou</string>
+	<key>STORAGE_BUCKET</key>
+	<string>findnearbyyou.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:558599482242:ios:29be21ca2d2a9504943d9b</string>
+	<key>DATABASE_URL</key>
+	<string>https://findnearbyyou.firebaseio.com</string>
+</dict>
+</plist>

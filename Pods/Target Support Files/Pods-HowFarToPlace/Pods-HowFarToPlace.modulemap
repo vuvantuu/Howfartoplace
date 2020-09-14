@@ -1,0 +1,6 @@
+framework module Pods_HowFarToPlace {
+  umbrella header "Pods-HowFarToPlace-umbrella.h"
+
+  export *
+  module * { export * }
+}
